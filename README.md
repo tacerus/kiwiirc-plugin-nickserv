@@ -1,5 +1,10 @@
 # KiwiIRC -  Nickserv Plugin
 
+This fork aims to port this plugin from Italian Anope to English Oragono. It is still being worked on.
+
+-----------------------
+Original README.md:
+
 This is a NickServ plugin for KiwiIRC 
 
 Dependencies
