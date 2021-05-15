@@ -1,6 +1,6 @@
 # KiwiIRC -  Nickserv Plugin
 
-This fork aims to port this plugin from Italian Anope to English Oragono. It is still being worked on.
+This fork aims to port this plugin from Italian Anope to English Oragono. It is still being worked on, but already allows for basic nickname registrations.
 
 -----------------------
 Original README.md:
